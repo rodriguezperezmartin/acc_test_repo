@@ -123,7 +123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="QNPOGrlhvzlYpxXKZ-P4">
-    <mxGraphModel dx="1327" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gc3lIsNewn7WjJc7VOT7-0" />
         <mxCell id="Gc3lIsNewn7WjJc7VOT7-1" parent="Gc3lIsNewn7WjJc7VOT7-0" />
@@ -151,8 +151,8 @@
         <mxCell id="Gc3lIsNewn7WjJc7VOT7-3" value="DataBricks" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
           <mxGeometry x="560" y="270" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Gc3lIsNewn7WjJc7VOT7-4" value="Operations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
-          <mxGeometry x="530" y="127" width="86" height="30" as="geometry" />
+        <mxCell id="Gc3lIsNewn7WjJc7VOT7-4" value="Operations: Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
+          <mxGeometry x="530" y="134" width="160" height="53" as="geometry" />
         </mxCell>
         <mxCell id="Gc3lIsNewn7WjJc7VOT7-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
           <mxGeometry x="200" y="120" width="200" height="170" as="geometry" />
@@ -254,7 +254,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C_ACrXguiyssat-DJukc-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
-          <mxGeometry x="520" y="-160" width="840" height="250" as="geometry" />
+          <mxGeometry x="520" y="-160" width="840" height="140" as="geometry" />
         </mxCell>
         <mxCell id="C_ACrXguiyssat-DJukc-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.cloudera.com/cdsw/1.10.5/cluster-management/images/cdsw_grafana.png;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
           <mxGeometry x="931.76" y="369.58000000000004" width="124.49" height="50.83" as="geometry" />
@@ -271,14 +271,44 @@
             <mxPoint x="1190" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_ACrXguiyssat-DJukc-71" value="Executives &amp;amp; VP&#39;s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
+        <mxCell id="C_ACrXguiyssat-DJukc-71" value="Executives &amp;amp; VP&#39;s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
           <mxGeometry x="1185" y="540" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C_ACrXguiyssat-DJukc-72" value="Production Support / DEVOPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
-          <mxGeometry x="1185" y="376.5" width="90" height="40" as="geometry" />
+        <mxCell id="C_ACrXguiyssat-DJukc-72" value="Production Support / DEVOPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
+          <mxGeometry x="1170" y="-109" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C_ACrXguiyssat-DJukc-73" value="Production Support / DEVOPS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
-          <mxGeometry x="570" y="-120" width="90" height="40" as="geometry" />
+        <mxCell id="C_ACrXguiyssat-DJukc-73" value="WebDevelopers&lt;div style=&quot;font-size: 18px;&quot;&gt;&amp;amp;&lt;br style=&quot;font-size: 18px;&quot;&gt;Marketing&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
+          <mxGeometry x="610" y="-109" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_ACrXguiyssat-DJukc-74" value="Sales &amp;amp; Finance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
+          <mxGeometry x="880" y="-109" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_ACrXguiyssat-DJukc-75" value="Legal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
+          <mxGeometry x="1180" y="187" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_ACrXguiyssat-DJukc-76" value="Pharmacy &amp;amp; Medical" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
+          <mxGeometry x="1185" y="329.58000000000004" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_ACrXguiyssat-DJukc-77" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.02;exitY=0.657;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.012;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Gc3lIsNewn7WjJc7VOT7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1102" y="280" as="sourcePoint" />
+            <mxPoint x="1360" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_ACrXguiyssat-DJukc-78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.651;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.649;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Gc3lIsNewn7WjJc7VOT7-1" source="C_ACrXguiyssat-DJukc-62" target="C_ACrXguiyssat-DJukc-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="992" as="sourcePoint" />
+            <mxPoint x="1250" y="1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_ACrXguiyssat-DJukc-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.334;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.667;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Gc3lIsNewn7WjJc7VOT7-1" source="C_ACrXguiyssat-DJukc-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800.3299999999999" y="78" as="sourcePoint" />
+            <mxPoint x="799.3299999999999" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_ACrXguiyssat-DJukc-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Gc3lIsNewn7WjJc7VOT7-1" source="C_ACrXguiyssat-DJukc-62" target="C_ACrXguiyssat-DJukc-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
