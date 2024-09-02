@@ -1,9 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2024-09-02T14:28:44.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="22.1.18" etag="CP8a0Cxh7J8kJlmko8eN" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="6amvpfJfDUaIPLUo4U3r">
-    <mxGraphModel>
+    <mxGraphModel dx="1174" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-1" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="470" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-2" value="DataBricks" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-3" value="Data Systems" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="227" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="227" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-5" value="Medical Claims System&lt;div&gt;(Third Party)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="230" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-6" value="Tredium" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="287" width="115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-8" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;curved=1;" edge="1" parent="1" source="E65dORJzFf5EF8Ta8FKR-2" target="E65dORJzFf5EF8Ta8FKR-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="310" />
+              <mxPoint x="410" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=75;entryPerimeter=0;" edge="1" parent="1" source="E65dORJzFf5EF8Ta8FKR-6" target="E65dORJzFf5EF8Ta8FKR-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="350" />
+              <mxPoint x="320" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E65dORJzFf5EF8Ta8FKR-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-11" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="339" y="306" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-14" value="Operational Store&lt;br&gt;- Measure Data Transactions&lt;br&gt;- Data Accuracy (DQ)&lt;div&gt;- Automated Adjudication Review Process&lt;/div&gt;&lt;div&gt;- Automated Claim Review Process&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="271" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-15" value="url:&amp;nbsp;https://medium.com/@mudrapatel17/data-engineering-concepts-part-7-devops-dataops-and-mlops-afc6f432473c&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;url2:&amp;nbsp;https://www.linkedin.com/pulse/revolutionizing-healthcare-dataops-tangible-impact-mark-a-johnston-upzbc/?trackingId=QvkprXhGST6A3eCJX6XFJQ%3D%3D&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="760" width="850" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-16" value="Data Lake" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="602" y="276" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="E65dORJzFf5EF8Ta8FKR-17" target="E65dORJzFf5EF8Ta8FKR-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="440" />
+              <mxPoint x="934" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E65dORJzFf5EF8Ta8FKR-17" target="E65dORJzFf5EF8Ta8FKR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-17" value="DataOps&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="602" y="490" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E65dORJzFf5EF8Ta8FKR-18" target="E65dORJzFf5EF8Ta8FKR-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-18" value="Reporting&lt;br&gt;DataMart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard2.svg;" vertex="1" parent="1">
+          <mxGeometry x="910" y="490" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="E65dORJzFf5EF8Ta8FKR-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" vertex="1" parent="1">
+          <mxGeometry x="900" y="345" width="68" height="52.800000000000004" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
